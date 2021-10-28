@@ -4,6 +4,7 @@ function App() {
   return (
     <article>
       <h1>Recipe Manager</h1>
+      <div>{ Date.now() }</div>
     </article>
   )
 }
