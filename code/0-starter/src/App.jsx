@@ -1,6 +1,6 @@
 import React from 'react';
 import RecipeTitle from './RecipeTitle'
-import './index.css'
+import './index.css' //#import style file
 
 function App() {
   return (
